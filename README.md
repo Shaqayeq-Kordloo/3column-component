@@ -24,7 +24,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 Users should be able to:
 
-design/desktop-preview.jpg
+![active-states](https://user-images.githubusercontent.com/100580688/185734213-09f3c7a9-977f-434b-b59f-2a4320e7c39c.jpg)
 ### Screenshot
 
 ![](./screenshot.jpg)
