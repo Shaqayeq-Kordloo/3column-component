@@ -95,7 +95,7 @@ body {
   color: hsl(179, 100%, 13%);
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 600px) {
   .container {
     flex-direction: column;
     width: 307px;
