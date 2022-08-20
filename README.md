@@ -2,29 +2,19 @@
 
 This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
 ### The challenge
 
-Users should be able to:
+
+![desktop-design](https://user-images.githubusercontent.com/100580688/185734230-655d9786-6955-47dc-b3cd-c4e2d6011104.jpg)
 
 ![active-states](https://user-images.githubusercontent.com/100580688/185734213-09f3c7a9-977f-434b-b59f-2a4320e7c39c.jpg)
+
+![mobile-design](https://user-images.githubusercontent.com/100580688/185734241-be999cf1-72ef-47d3-8b54-a04b0ecf16df.jpg)
+
 ### Screenshot
 
 ![](./screenshot.jpg)
