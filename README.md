@@ -1,8 +1,5 @@
 # Frontend Mentor - 3-column preview card component solution
 
-This is a solution to the [3-column preview card component challenge on Frontend Mentor]https://github.com/Shaqayeq-Kordloo/3column-component
-
-
 
 ## Overview
 
@@ -36,8 +33,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - https://github.com/Shaqayeq-Kordloo
+- Instagram - @shaqayeq_kordloo
 
 
