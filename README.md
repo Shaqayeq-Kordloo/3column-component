@@ -14,7 +14,7 @@
 ### Links
 
 - Solution URL: https://github.com/Shaqayeq-Kordloo/3column-component
-- Live Site URL: [this is my live site!]https://shaqayeq-kordloo.github.io/3column-component/
+- Live Site URL: https://shaqayeq-kordloo.github.io/3column-component/
 
 ## My process
 
@@ -23,7 +23,6 @@
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- [Styled Components](https://styled-components.com/) - For styles
 
 
 ### Useful resources
