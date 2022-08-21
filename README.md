@@ -4,7 +4,8 @@
 ## Overview
 
 
-![desktop-design]!([Uploading desktop size.PNG…])
+![desktop-design]!![desktop-design](https://user-images.githubusercontent.com/100580688/185786116-b4332712-b1a1-4cb5-8a15-eeeaad597d5d.jpg)
+
 
 ![active-states](https://user-images.githubusercontent.com/100580688/185734213-09f3c7a9-977f-434b-b59f-2a4320e7c39c.jpg)
 
