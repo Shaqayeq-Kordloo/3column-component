@@ -15,7 +15,7 @@
 }
 
 body {
-  background-color: hsl(0, 0%, 95%);
+  background-color: #f2f2f2;
 }
 
 .container {
@@ -24,25 +24,23 @@ body {
   margin-top: 92px;
   width: 920px;
   height: 500px;
-  background-color: hsl(31, 77%, 52%);
 }
 
 .container h2 {
   font-family: "Big Shoulders Display";
   font-size: 40px;
-  color: hsl(0, 0%, 95%);
+  font-weight: 700;
+  color: #f2f2f2;
   margin-top: 45px;
 }
 
 .container p {
   font-family: "Lexend Deca";
   font-size: 15px;
+  font-weight: 400;
   margin-top: 45px;
-  color: hsla(0, 0%, 100%, 0.75);
-}
-
-.container img {
-  margin-top: 45px;
+  color: #f2f2f2;
+  line-height: 25px;
 }
 
 .container .btn {
@@ -53,52 +51,66 @@ body {
   margin-top: 45px;
   border: none;
   font-family: "Lexend Deca";
+  text-transform: uppercase;
 }
 
 .container .btn:hover {
   background-color: transparent;
   color: #ffffff;
-  border: 1px solid #ffffff;
+  border: 2px solid #ffffff;
+  transition: 0.3s ease-in;
+  cursor: pointer;
 }
 
 .first-card {
   width: 307px;
   padding: 35px;
+  background-color: #e28625;
   border-top-left-radius: 8px;
   border-bottom-left-radius: 8px;
 }
 
 .first-card .btn {
-  color: hsl(31, 77%, 52%);
+  color: #e28625;
   margin-top: 65px;
 }
 
 .second-card {
   width: 307px;
-  background-color: hsl(184, 100%, 22%);
+  background-color: #006971;
   padding: 35px;
 }
 
 .second-card .btn {
-  color: hsl(184, 100%, 22%);
+  color: #006971;
 }
 
 .third-card {
   width: 307px;
-  background-color: hsl(179, 100%, 13%);
+  background-color: #004140;
   padding: 35px;
   border-top-right-radius: 8px;
   border-bottom-right-radius: 8px;
 }
 
 .third-card .btn {
-  color: hsl(179, 100%, 13%);
+  color: #004140;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 920px) {
   .container {
     flex-direction: column;
     width: 307px;
     height: 921px;
+  }
+  .first-card {
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 0;
+  }
+  .third-card {
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-top-right-radius: 0;
   }
 }
