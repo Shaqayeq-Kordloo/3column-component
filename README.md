@@ -15,7 +15,7 @@
 ### Links
 
 - Solution URL: ![my sulution](https://github.com/Shaqayeq-Kordloo/3column-component)
-- Live Site URL: ![see live here](https://shaqayeq-kordloo.github.io/3column-component/)
+- Live Site URL: ![see live here] (https://shaqayeq-kordloo.github.io/3column-component/)
 
 ### Built with
 
